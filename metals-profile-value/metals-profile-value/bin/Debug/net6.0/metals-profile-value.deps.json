@@ -1,0 +1,136 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "metals-profile-value/1.0.0": {
+        "dependencies": {
+          "FSharp.Core": "6.0.1",
+          "FSharp.Data": "4.2.7",
+          "FSharp.Json": "0.4.1",
+          "Json.Net": "1.0.33"
+        },
+        "runtime": {
+          "metals-profile-value.dll": {}
+        }
+      },
+      "FSharp.Core/6.0.1": {
+        "runtime": {
+          "lib/netstandard2.1/FSharp.Core.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.121.52202"
+          }
+        },
+        "resources": {
+          "lib/netstandard2.1/cs/FSharp.Core.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/netstandard2.1/de/FSharp.Core.resources.dll": {
+            "locale": "de"
+          },
+          "lib/netstandard2.1/es/FSharp.Core.resources.dll": {
+            "locale": "es"
+          },
+          "lib/netstandard2.1/fr/FSharp.Core.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/netstandard2.1/it/FSharp.Core.resources.dll": {
+            "locale": "it"
+          },
+          "lib/netstandard2.1/ja/FSharp.Core.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/netstandard2.1/ko/FSharp.Core.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/netstandard2.1/pl/FSharp.Core.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/netstandard2.1/pt-BR/FSharp.Core.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/netstandard2.1/ru/FSharp.Core.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/netstandard2.1/tr/FSharp.Core.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/netstandard2.1/zh-Hans/FSharp.Core.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "lib/netstandard2.1/zh-Hant/FSharp.Core.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        }
+      },
+      "FSharp.Data/4.2.7": {
+        "dependencies": {
+          "FSharp.Core": "6.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/FSharp.Data.dll": {
+            "assemblyVersion": "4.2.7.0",
+            "fileVersion": "4.2.7.0"
+          }
+        }
+      },
+      "FSharp.Json/0.4.1": {
+        "dependencies": {
+          "FSharp.Core": "6.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/FSharp.Json.dll": {
+            "assemblyVersion": "0.4.1.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Json.Net/1.0.33": {
+        "runtime": {
+          "lib/netstandard2.0/Json.Net.dll": {
+            "assemblyVersion": "1.0.33.1",
+            "fileVersion": "1.0.33.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "metals-profile-value/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FSharp.Core/6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VrFAiW8dEEekk+0aqlbvMNZzDvYXmgWZwAt68AUBqaWK8RnoEVUNglj66bZzhs4/U63q0EfXlhcEKnH1sTYLjw==",
+      "path": "fsharp.core/6.0.1",
+      "hashPath": "fsharp.core.6.0.1.nupkg.sha512"
+    },
+    "FSharp.Data/4.2.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gQO0u0q1z9wXOkSmL7TVQLspAGR/S2Vm3CDPStEHCcTQyivkgoZie0IsB2Zyl2inC+hmQa/jcVQNQjo7XB7Ujg==",
+      "path": "fsharp.data/4.2.7",
+      "hashPath": "fsharp.data.4.2.7.nupkg.sha512"
+    },
+    "FSharp.Json/0.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1vxUbXSN9bXRZCaj/Vau3AYT0kTBD717eF4M7J3cUjNAzyT36zD6mmN9tkf17r2k3/qv/S8Fc5bEsGtqKqtV4g==",
+      "path": "fsharp.json/0.4.1",
+      "hashPath": "fsharp.json.0.4.1.nupkg.sha512"
+    },
+    "Json.Net/1.0.33": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5tE+db6BqhRAvITIVBeRsQorLGshPExfm4FmMRvWWAfs4RxeTbFFj2PIEybwmMW0qR30HKkXDYhq0YkDK2Jtxw==",
+      "path": "json.net/1.0.33",
+      "hashPath": "json.net.1.0.33.nupkg.sha512"
+    }
+  }
+}

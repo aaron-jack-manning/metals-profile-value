@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rGA7qsFpNjlfFd4JsqdAQUjfV9JDVoJjQsYF2CmvsW+nGy7wuyiyMUysYstAE1RfnmD/oOVdhg2DO+JIAsnP4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aaron\\My Drive\\Side Projects\\Programming Projects\\_Metals Portfolio Value (F#)\\metals-profile-value\\metals-profile-value\\metals-profile-value.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aaron\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\fsharp.data\\4.2.7\\fsharp.data.4.2.7.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\fsharp.json\\0.4.1\\fsharp.json.0.4.1.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
