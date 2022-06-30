@@ -16,4 +16,6 @@ If a purchase price is specified, the profit/loss will be calculated using that,
 
 Each row in the portfolio file will correspond with a row in the output file.
 
-After running the program, a file called `Analysis.csv` will be created in the root directory of this repository, containing the purchase price, current market value and difference for each entry, and totals at the bottom.
+After running the program, a file called `Analysis.csv` will be created, containing the purchase price, current market value and difference for each entry, and totals at the bottom.
+
+The program looks for the `Metadata.csv` and `Portfolio.csv` files at the directory where the program is run from.

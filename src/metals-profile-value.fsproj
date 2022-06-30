@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>metals_profile_value</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="ResultMonad.fs" />
+    <Compile Include="UnitConversions.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FSharp.Data" Version="4.2.7" />
+    <PackageReference Include="FSharp.Json" Version="0.4.1" />
+    <PackageReference Include="Json.Net" Version="1.0.33" />
+  </ItemGroup>
+
+</Project>
